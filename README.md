@@ -1,9 +1,9 @@
 # lita-doubler
 
+Lita chatbot skill for doubling numbers
+
 [![Build Status](https://travis-ci.org/marselgabdulov/lita-doubler.png?branch=master)](https://travis-ci.org/marselgabdulov/lita-doubler)
 [![Coverage Status](https://coveralls.io/repos/marselgabdulov/lita-doubler/badge.png)](https://coveralls.io/r/marselgabdulov/lita-doubler)
-
-TODO: Add a description of the plugin.
 
 ## Installation
 
